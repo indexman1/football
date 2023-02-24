@@ -1,3 +1,8 @@
+
+
+I am editing the README file. Adding some more details about the project description.
+
+
 def main():
   # example budget
   budget = 1000000
@@ -39,3 +44,4 @@ def main():
   # algorythm to maximize the budget and amount of players to be implemented below
     
 main()
+
